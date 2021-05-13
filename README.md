@@ -29,3 +29,6 @@ If data has null hypothesis then, it is not stationary
 If data is stationary then reject the null hypothesis
 
 # Hence our Timeseries data has unit root it is Stationary
+
+
+Keep-in Touch : https://www.linkedin.com/in/akshithkumar-05/
